@@ -17,6 +17,5 @@ online judge platforms.
 
 | Judge      | ID/Link                                               | Specific Topic |
 |------------|------------------------------------------------------ |----------------|
-| CodeForces | [977E](http://codeforces.com/contest/977/problem/E)   | Union-Find Set |
+| CodeForces | [977E](http://codeforces.com/contest/977/problem/E)   | <details><summary>?</summary> Union-Find Set </details>|
 | CodeForces | [1013D](http://codeforces.com/contest/1013/problem/D) | Union-Find Set |
-
