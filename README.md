@@ -11,7 +11,7 @@ Difficulty rating is just objective.
 
 I do not want to spoil the Specific Topic for all problems because for some problems, it would be
 more interesting (and rewarding) to solve if that piece of info is unknown. Therefore,
-spoiler-free tags is used.
+spoiler-free tags are used.
 
 
 ### Data Structures
