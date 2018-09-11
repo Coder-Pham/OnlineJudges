@@ -34,3 +34,10 @@ spoiler-free tags are used.
 |------------|------------------------------------------------------ |------------|---------------------|
 | CodeForces | [977E](http://codeforces.com/contest/977/problem/E)   | 3          |<details><summary>?</summary> DFS, Union-Find Set </details>|
 | CodeForces | [1013D](http://codeforces.com/contest/1013/problem/D) | 5          |<details><summary>?</summary> Union-Find Set </details>|
+
+
+### Greedy
+| Judge | ID/Link                                                   | Difficulty | Specific Topic     |
+|-------|-----------------------------------------------------------|------------|--------------------|
+| Timus | [1203](http://acm.timus.ru/problem.aspx?space=1&num=1203) | 3          | |
+
