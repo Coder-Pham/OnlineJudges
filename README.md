@@ -34,6 +34,7 @@ spoiler-free tags are used.
 |------------|------------------------------------------------------ |------------|---------------------|
 | CodeForces | [977E](http://codeforces.com/contest/977/problem/E)   | 3          |<details><summary>?</summary> DFS, Union-Find Set </details>|
 | CodeForces | [1013D](http://codeforces.com/contest/1013/problem/D) | 5          |<details><summary>?</summary> Union-Find Set </details>|
+| CodeForces | [1027D](http://codeforces.com/contest/1027/problem/D) | 4          |<details><summary>?</summary> DFS </details>|
 
 
 ### Greedy
