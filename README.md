@@ -2,7 +2,9 @@
 
 ## Introduction
 This reposity is the archive of notable problems (mostly for beginners) on some
-online judge platforms.
+online judge platforms. (By Minh Nhat)
+
+This clone repo is for cooperate practice I want to have with Nhat who maybe will be my teammate if we try ACM. (By Trong Nhan)
 
 ## Problems by category
 
@@ -20,3 +22,6 @@ online judge platforms.
 | CodeForces | [977E](http://codeforces.com/contest/977/problem/E)   | Union-Find Set |
 | CodeForces | [1013D](http://codeforces.com/contest/1013/problem/D) | Union-Find Set |
 
+### Random Problems
+
+I find these problems by accident on the internet, there will be a description for each problems in the solution files.
